@@ -1,4 +1,4 @@
-# Dual-LLM AEO & SEO Automation Pipeline
+# AEO digestible snippet summarizer
 
 An enterprise-grade Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) pipeline built in Python. This tool automates webpage content scraping, dual-LLM orchestration (Google Gemini + Anthropic Claude), strict rule-based quality assurance, and fact-retention verification to generate high-value technical Q&A pairs for modern AI search engines.
 
