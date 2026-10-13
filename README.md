@@ -1,4 +1,4 @@
-# InTheAnswer AEO: Get your web pages into AI answers. Turns any page into a fact-checked Q&A, using Search Console data to pick the topic and Gemini + Claude to verify every claim.
+# AEO using GSC data. Turn-your-web-pages-into-AI-answers.Turns any page into a fact-checked Q&A or AEO summary, using Search Console data to pick the topic and Gemini + Claude to verify every claim.
 
 An enterprise-grade Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) pipeline built in Python. This tool automates webpage content scraping, dual-LLM orchestration (Google Gemini + Anthropic Claude), strict rule-based quality assurance, and fact-retention verification to generate high-value technical Q&A pairs for AI search engines.
 
